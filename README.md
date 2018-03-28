@@ -17,4 +17,8 @@ The software is then executed by directing the output to a PPM file using:
 ./card > card.ppm
 ```
 
-*The output may take up to a minute or more based on image dimensions and sampling amounts*
+The output may take up to a minute or more based on image dimensions and sampling amounts
+
+*Note: This file format isn't currently natively supported under Windows 10; I recommend using [GIMP](https://www.gimp.org/)
+ to open the output file*
+
