@@ -8,7 +8,7 @@ Simply made a few changes to tailor the program to my name, changed the floor co
 Compiled using C++ (Bash on Ubuntu for Windows 10 / Windows subsystem for Linux):
 
 ```bash
-c++ -O3 -o card card.cpp
+c++ -O3 -o card card.cpp -lm
 ```
 
 The software is then executed by directing the output to a PPM file using:
