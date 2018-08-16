@@ -2,6 +2,7 @@
 Business card Raytracer
 
 *(based on Fabbiensanglard.net article, found [here](http://fabiensanglard.net/rayTracing_back_of_business_card/index.php))*
+*Article on my portfolio about the changes made [here](https://chris-donnelly.github.io/raytracer.html)*
 
 Simply made a few changes to tailor the program to my name, changed the floor colours and image dimensions, and re-compacted the code back to its original layout.
 
